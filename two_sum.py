@@ -1,5 +1,5 @@
 # Title: 'Two Sum'
-# Author: Rishin Rahim <rishin.rahim@unisys.com>
+# Author: Rishin Rahim <rishin07@gmail.com>
 # Created: 2021-03-22
 # Difficulty : Easy
 '''
