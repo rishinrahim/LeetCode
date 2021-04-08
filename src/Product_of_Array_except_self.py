@@ -32,7 +32,6 @@ Could you solve it with O(1) constant space complexity? (The output array does n
 
 class Solution:
     def productExceptSelf(self, nums: list) -> list:
-        p = []
         nz = 0
         prod = 1
         for num in nums:
