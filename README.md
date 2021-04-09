@@ -5,7 +5,7 @@ This repository contains the solutions and explanations to the algorithm problem
 
 ## Array
 
-- [x]  [Two Sum](https://leetcode.com/problems/two-sum/) |[Solution](https://github.com/rishinrahim/LeetCode/blob/main/src/01_two_sum.py)
+- [x]  [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/rishinrahim/LeetCode/blob/main/src/01_two_sum.py)
 - [x]  [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/rishinrahim/LeetCode/blob/main/src/02_best_time_to_buy_and_sell_stock.py)
 - [x]  [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/rishinrahim/LeetCode/blob/main/src/03_Contains_duplicate.py)
 - [x]  [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](https://github.com/rishinrahim/LeetCode/blob/main/src/04_Product_of_Array_except_self.py)
